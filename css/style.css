@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    margin: 5rem;
+    text-align: center;
+    color: red;
+    border-style: groove;
+    border-color: aquamarine;
+}
+
+section{
+    display: flex;
+}
+
+.btn{
+    border-radius: 25px;
+}
+
+.downloaders{
+    display: flex;
+    justify-content: space-around;
+}
